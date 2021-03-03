@@ -1,7 +1,7 @@
-/build/
+#/build/
 
 # Built files
-/es5/
-/lib/
-/lib-temp/
-/dist/
+#/es5/
+#/lib/
+#/lib-temp/
+#/dist/
